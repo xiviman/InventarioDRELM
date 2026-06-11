@@ -1,0 +1,8 @@
+inventario.csv
+institutos.json
+reportes/
+dist/
+build/
+__pycache__/
+*.spec
+.venv/
